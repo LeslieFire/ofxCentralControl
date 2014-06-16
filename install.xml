@@ -1,0 +1,25 @@
+<install>
+	<name>ofxCentralControl</name>
+	<version>1</version>
+	<author>Leslie</author>
+	<url></url>
+	
+	<add>
+		
+		<!-- 	=====================================================================	-->
+		<!--	========================== add per project using this addon =========	-->
+		<!-- 	=====================================================================	-->
+	
+		<src>
+			<folder name="addons/ofxCentralControl/src">
+				<file>../../../addons/ofxCentralControl/src/ofxCentralControl.h</file>
+			</folder>
+		</src>
+		
+		<include>
+			<path>../../../addons/ofxCentralControl/src</path>
+		</include>
+		
+	</add>
+	 
+</install>
